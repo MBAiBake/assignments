@@ -1,9 +1,0 @@
-Validity Rules:
-1. Numerals must be arranged in descending order of size.
-2. M, C, and X cannot be equaled or exceeded by smaller denominations. 
-3. D, L, and V can each only appear once.
-Minimization Rules:
-4. Only one I, X, and C can be used as the leading numeral in part of a subtractive pair. 
-5. I can only be placed before V and X.
-6. X can only be placed before L and C.
-7. C can only be placed before D and M.
